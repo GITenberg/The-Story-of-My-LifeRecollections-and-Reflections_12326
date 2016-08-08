@@ -1,0 +1,30 @@
+_repo: The-Story-of-My-LifeRecollections-and-Reflections_12326
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Terry, Ellen
+    aliases:
+    - Terry, Alice Ellen, Dame
+    - Wardell, E. A. (Ellen A.), Dame
+    - Terri, Ellen, Dame
+    birthdate: 1848
+    deathdate: 1928
+    gutenberg_agent_id: '4316'
+    url: http://www.gutenberg.org/2009/agents/4316
+    wikipedia: http://en.wikipedia.org/wiki/Ellen_Terry
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Terry, Ellen, Dame, 1847-1928'
+- !lcc 'PN'
+- !lcsh 'Actresses -- Great Britain -- Biography'
+- GITenberg
+title: 'The Story of My Life: Recollections and Reflections'
+url: http://www.gutenberg.org/ebooks/12326
